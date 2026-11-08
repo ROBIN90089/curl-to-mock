@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Ada"
+    },
+    {
+      "id": 2,
+      "name": "Linus"
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "pageSize": 2,
+    "total": 6,
+    "totalPages": 3,
+    "nextPage": 2
+  }
+}

@@ -1,0 +1,5 @@
+Generated with the built-in image_gen tool.
+
+Prompt: Create a wide GitHub social preview banner for curl-to-mock. Deep navy background, mint green and white typography, a JSON document flowing through an arrow into a local API terminal. Exact title: curl-to-mock. Subtitle: A JSON file. A working API. One command. Command: node bin/cli.js response.json. Minimal developer-tool aesthetic, generous margins, no badges or invented claims.
+
+Correction prompt: Change terminal address to http://localhost:4000 and endpoint to GET /. Preserve the design.

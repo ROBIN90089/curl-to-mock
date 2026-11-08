@@ -1,0 +1,15 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Mechanical keyboard",
+      "price": 89
+    },
+    {
+      "id": 2,
+      "name": "USB-C hub",
+      "price": 39
+    }
+  ],
+  "currency": "USD"
+}

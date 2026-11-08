@@ -1,0 +1,33 @@
+{
+  "name": "curl-to-mock",
+  "version": "0.1.0",
+  "description": "Turn a JSON file into a local mock API in seconds.",
+  "type": "module",
+  "bin": {
+    "curl-to-mock": "bin/cli.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "start": "node bin/cli.js examples/products.json"
+  },
+  "files": [
+    "bin/",
+    "src/",
+    "examples/",
+    "README.md",
+    "LICENSE",
+    "docs/demo.gif"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mock",
+    "api",
+    "json",
+    "cli",
+    "frontend",
+    "localhost"
+  ]
+}
