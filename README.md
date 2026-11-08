@@ -1,5 +1,7 @@
 # curl-to-mock
 
+![curl-to-mock — JSON to local API](docs/social-preview.png)
+
 **A JSON file. A working API. One command.**
 
 Build your frontend while the backend catches up. Serve a local JSON fixture with custom status codes, realistic delays, and CORS enabled. Zero runtime dependencies. No account or API key.
